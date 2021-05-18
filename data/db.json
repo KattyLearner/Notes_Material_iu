@@ -1,0 +1,34 @@
+{
+  "notes": [
+    {
+      "title": "Order a pizza!",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "React",
+      "details": "Different columns can be specified by passing an object containing key's of the window widths and their value as the number of columns. To have a fallback value, use the default key.",
+      "category": "money",
+      "id": 4
+    },
+    {
+      "title": "Call my cat ",
+      "details": "We can add the following to the above CSS to further adjust the layout between screen sizes.",
+      "category": "reminder",
+      "id": 5
+    },
+    {
+      "title": "New one ",
+      "details": "Existing solutions like React wrapped DeSandro Masonry, while popular, don't actually leverage React's highly optimized Virtual DOM renderer and in DeSandro Masonry's case, actually renders elements twice before showing the layout. All of this is ok but we found it to lead to a slow, \"laggy\" user experience that would occasionally miss-rende",
+      "category": "work",
+      "id": 6
+    },
+    {
+      "title": "Okay new one ",
+      "details": "blabla Existing solutions like React wrapped DeSandro Masonry, while popular, don't actually leverage React's highly optimized Virtual DOM renderer and in DeSandro Masonry's case, actually renders elements twice before showing the layout. All of this is ok but we found it to lead to a slow, \"laggy\" user experience that would occasionally miss-rende",
+      "category": "todos",
+      "id": 7
+    }
+  ]
+}
